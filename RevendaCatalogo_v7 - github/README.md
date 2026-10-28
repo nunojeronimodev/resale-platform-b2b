@@ -28,7 +28,7 @@ _Demo coming soon._ 🎬
 
 [How the application works]
 
-<img width="797" height="552" alt="DIAGRAMA DE FLUXOS DE DADOS - POWERPCV7" src="https://github.com/user-attachments/assets/e9698918-8ca9-4ecc-b16c-919223fbc7d7" />
+<img width="797" height="552" alt="DIAGRAMA DE FLUXOS DE DADOS" src="https://github.com/user-attachments/assets/e9698918-8ca9-4ecc-b16c-919223fbc7d7" />
 
 Each supplier's price list is imported, mapped to a common format and filtered. Then the app
 detects the same product across suppliers, using exact keys first (EAN, part number), then a set
